@@ -1,0 +1,101 @@
+﻿sample_id,patient_id,sample_type,collection_date,location
+1,1,Resection,2022-01-08,Unknown
+2,1,Cytology,2023-10-26,Unknown
+3,1,Cytology,2023-08-03,Unknown
+4,2,Biopsy,2023-05-30,Melanoma → Skin
+5,3,Cytology,2022-08-08,Lung Cancer → Lung
+6,3,Cytology,2023-09-30,Lung
+7,3,Biopsy,2022-02-05,Lung
+8,4,Cytology,2023-08-20,Breast Cancer → Breast
+9,4,Biopsy,2021-08-09,Breast
+10,5,Biopsy,2022-03-15,Lung
+11,6,Resection,2023-12-13,Lung
+12,6,Resection,2021-02-02,Lung
+13,6,Resection,2021-06-04,Lung
+14,7,Resection,2021-09-24,Melanoma → Skin
+15,7,Resection,2023-05-09,Skin
+16,7,Cytology,2023-01-14,Skin
+17,8,Biopsy,2023-05-28,Melanoma → Skin
+18,8,Biopsy,2023-02-21,Skin
+19,8,Cytology,2023-05-01,Skin
+20,9,Resection,2022-08-19,Lung
+21,10,Resection,2021-06-29,Breast
+22,10,Cytology,2023-01-05,Breast
+23,10,Biopsy,2023-08-21,Breast
+24,11,Resection,2023-04-11,Lung
+25,11,Cytology,2021-01-06,Lung
+26,12,Biopsy,2023-06-15,Unknown
+27,13,Resection,2021-06-11,Breast
+28,14,Cytology,2021-10-20,Lung
+29,15,Biopsy,2021-04-30,Lung
+30,16,Biopsy,2021-07-19,Unknown
+31,16,Resection,2022-07-14,Unknown
+32,17,Resection,2022-03-18,Unknown
+33,17,Biopsy,2022-03-17,Unknown
+34,18,Resection,2023-12-26,Breast
+35,19,Resection,2022-06-21,Unknown
+36,20,Biopsy,2021-09-04,Lung
+37,20,Resection,2023-08-13,Lung
+38,20,Cytology,2021-03-11,Lung
+39,21,Resection,2022-07-05,Unknown
+40,21,Resection,2022-06-05,Unknown
+41,22,Resection,2021-04-12,Unknown
+42,22,Biopsy,2022-03-06,Unknown
+43,22,Cytology,2021-09-19,Unknown
+44,23,Resection,2022-09-02,Melanoma → Skin
+45,23,Resection,2021-06-26,Skin
+46,24,Resection,2023-07-11,Breast
+47,24,Resection,2021-05-18,Breast
+48,25,Cytology,2021-02-16,Unknown
+49,25,Resection,2021-01-07,Unknown
+50,26,Biopsy,2022-12-01,Lung
+51,26,Cytology,2021-01-26,Lung
+52,27,Cytology,2021-12-08,Lung
+53,27,Biopsy,2022-04-01,Lung
+54,28,Cytology,2023-10-25,Lung
+55,29,Biopsy,2022-12-10,Skin
+56,29,Biopsy,2023-11-22,Skin
+57,29,Resection,2021-11-29,Skin
+58,30,Biopsy,2021-09-05,Unknown
+59,31,Biopsy,2022-06-28,Skin
+60,31,Biopsy,2022-04-29,Skin
+61,31,Resection,2023-07-18,Skin
+62,32,Biopsy,2023-04-30,Breast
+63,32,Resection,2022-07-19,Breast
+64,33,Resection,2021-09-30,Breast
+65,33,Biopsy,2021-11-14,Breast
+66,33,Cytology,2023-11-02,Lung
+67,34,Biopsy,2023-08-08,Breast
+68,34,Cytology,2023-11-17,Breast
+69,34,Resection,2023-05-23,Unknown
+70,35,Biopsy,2022-10-31,Breast
+71,35,Biopsy,2022-09-29,Breast
+72,35,Resection,2023-09-08,Lung
+73,36,Cytology,2022-01-30,Breast
+74,36,Resection,2021-12-08,Breast
+75,36,Cytology,2023-06-19,Breast
+76,37,Biopsy,2021-06-12,Melanoma → Skin
+77,38,Resection,2022-06-10,Melanoma
+78,39,Cytology,2021-03-14,Melanoma
+79,39,Cytology,2023-11-06,Unknown
+80,39,Biopsy,2023-03-03,Lung
+81,40,Cytology,2023-09-19,Lung
+82,41,Resection,2022-10-03,Lung
+83,41,Cytology,2023-10-16,Unknown
+84,41,Resection,2023-07-16,Melanoma → Skin
+85,42,Cytology,2023-04-28,Skin
+86,42,Cytology,2023-02-25,Skin
+87,43,Resection,2021-05-28,Breast
+88,43,Resection,2023-11-16,Lung
+89,44,Biopsy,2022-08-29,Lung
+90,45,Resection,2022-01-30,Lung
+91,45,Cytology,2023-12-31,Breast
+92,46,Cytology,2021-12-08,Breast
+93,46,Biopsy,2023-09-27,Breast
+94,47,Cytology,2023-02-12,Unknown
+95,47,Cytology,2023-10-25,Unknown
+96,48,Cytology,2022-04-06,Melanoma → Skin
+97,49,Resection,2021-03-16,Skin
+98,49,Biopsy,2022-08-03,Skin
+99,50,Cytology,2022-05-28,Breast
+100,50,Biopsy,2023-02-11,Breast

@@ -1,0 +1,51 @@
+﻿patient_id,patient_code,dob,gender,diagnosis_date,primary_diagnosis
+1,P001,1971-12-03,Female,2023-04-25,
+2,P002,1999-02-11,Female,2023-04-12,Melanoma
+3,P003,1979-02-17,Male,2022-01-20,Lung Cancer
+4,P004,1997-01-26,Female,,Breast Cancer
+5,P005,1989-06-16,Female,2023-08-10,Lung Cancer
+6,P006,1962-11-10,Female,2022-04-16,Lung Cancer
+7,P007,1949-09-25,Male,2023-02-05,Melanoma
+8,P008,1940-03-10,Female,2022-02-01,Melanoma
+9,P009,1992-01-16,Female,2022-10-16,Lung Cancer
+10,P010,1957-12-25,Female,2023-01-30,Breast Cancer
+11,P011,1997-03-03,Male,2023-07-13,Lung Cancer
+12,P012,1948-02-23,Male,2021-01-14,
+13,P013,1999-06-19,Male,2022-05-21,Breast Cancer
+14,P014,1988-05-26,Male,2022-09-23,Lung Cancer
+15,P015,2001-08-13,Female,2023-08-30,Lung Cancer
+16,P016,1982-04-11,Female,2023-06-25,
+17,P017,1997-11-01,Female,2021-08-04,
+18,P018,1987-05-04,Female,2021-05-21,Breast Cancer
+19,P019,1949-01-31,Female,2022-11-23,
+20,P020,1946-11-28,Male,2022-03-12,Lung Cancer
+21,P021,1983-06-23,Female,2022-01-13,
+22,P022,2002-07-10,Female,2022-10-18,
+23,P023,1999-02-14,Female,2022-12-02,Melanoma
+24,P024,2001-06-27,Female,2022-08-28,Breast Cancer
+25,P025,2004-10-08,Male,2022-12-30,
+26,P026,1994-04-25,Male,2021-07-21,Lung Cancer
+27,P027,2003-10-20,Female,2023-09-22,Lung Cancer
+28,P028,1980-03-13,Male,2021-09-22,Lung Cancer
+29,P029,1946-08-15,Female,2021-02-12,Melanoma
+30,P030,1963-10-01,Female,2022-08-16,
+31,P031,1989-05-12,Male,2021-09-08,Melanoma
+32,P032,1965-07-01,Female,2023-09-12,Breast Cancer
+33,P033,1956-08-26,Male,,Breast Cancer
+34,P034,1945-12-17,Male,2021-02-04,Lung Cancer
+35,P035,1984-04-16,Female,2021-06-11,Breast Cancer
+36,P036,1960-02-12,Female,2022-04-07,Melanoma
+37,P037,1950-07-08,Male,2021-07-04,Breast Cancer
+38,P038,1961-04-15,Female,2023-11-02,Lung Cancer
+39,P039,1964-01-06,Female,2022-11-21,Breast Cancer
+40,P040,1978-07-30,Male,2022-06-09,Melanoma
+41,P041,1946-03-25,Male,,
+42,P042,1995-10-17,Female,,Lung Cancer
+43,P043,1978-01-31,Female,,
+44,P044,1994-02-06,Female,2023-07-06,Melanoma
+45,P045,1997-01-13,Female,2022-11-27,Breast Cancer
+46,P046,1954-03-04,Male,,Lung Cancer
+47,P047,1956-08-23,Female,2023-02-21,Breast Cancer
+48,P048,1979-01-07,Male,2022-10-05,
+49,P049,2004-12-05,Male,2021-06-19,Melanoma
+50,P050,1976-05-18,Female,2021-05-17,Breast Cancer
